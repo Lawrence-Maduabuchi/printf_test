@@ -1,7 +1,7 @@
 # 0x11. C - printf
 
 
-This is a TEAM Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about What are prinf statements **C language**.
+This is a TEAM Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about What are prinf statements, how to print a string **C language**.
 
 ## Technologies
 * C files are compiled using `gcc 4.8.4`
